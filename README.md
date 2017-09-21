@@ -15,3 +15,10 @@ The datasheets for MPU9250 are:
 The Bosch BMP280 sensor, we are using the [Adafruit Library BMP280](https://github.com/adafruit/Adafruit_BMP280_Library).
 
 ![GY91](https://github.com/ricardozago/GY91-MPU9250-BMP280/blob/master/Images/GY91.jpg)
+GY-91
+
+![MPU9255](https://github.com/ricardozago/GY91-MPU9250-BMP280/blob/master/Images/MPU9255.jpg)
+InvenSense MPU9255
+
+![BMP280](https://github.com/ricardozago/GY91-MPU9250-BMP280/blob/master/Images/BMP280.jpg)
+Bosch BMP280
