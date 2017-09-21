@@ -5,7 +5,7 @@
 #include <arduino.h>
 
 #define MPU9250_ADDRESS  0x68 // Change to 0x69 if AD0 is in high state
-#define WHO_AM_I_RESP    0x73 // MPU9250 is 0x71 and MPU9250 is 0x73
+#define WHO_AM_I_RESP    0x73 // MPU9250 is 0x71 and MPU9255 is 0x73
 
 #define AK8963_ADDRESS   0x0C // MPU9250 must bypass to access the AK8963 in INT_PIN_CFG
 #define WHO_AM_I_RESP_MAG 0x48
